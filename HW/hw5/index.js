@@ -94,7 +94,7 @@
 
 // storage.removeItem("Пролонгер");
 // console.table(storage.items); // [ "Нанитоиды", "Железные жупи", "Антигравитатор", "Дроид" ]
-
+// ==================================================================
 // class StringBuilder {
 //   constructor(value) {
 //     this._value = value;
@@ -122,7 +122,7 @@
 
 // builder.pad("=");
 // console.log(builder.value); // '=^.^='
-
+// =======================================================================
 class Car {
   static getSpecs(car) {
     console.table(car);
